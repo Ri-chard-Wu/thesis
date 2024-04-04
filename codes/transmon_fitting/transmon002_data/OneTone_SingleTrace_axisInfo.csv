@@ -1,0 +1,5 @@
+name,Frequency
+unit,Hz
+start,5920000000.0
+stop,5969800000.0
+step,200000.0

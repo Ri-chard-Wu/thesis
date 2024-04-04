@@ -1,0 +1,5 @@
+name,Frequency,LO - Power
+unit,Hz,dBm
+start,5935000000.0,0.0
+stop,5965000000.0,15.0
+step,100000.0,1.0
